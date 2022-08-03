@@ -1,3 +1,3 @@
 # Python
-1. contains code written in python
-1. yes
+-. contains code written in python
+-. yes
