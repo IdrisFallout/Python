@@ -37,7 +37,7 @@ def check_price():
         print("ksh " + str(round_price_ksh))
         print("1 USD = ksh " + str(usd_to_ksh))
 
-        if round_price_ksh > 13000:
+        if round_price_ksh < 13000:
             send_email()
     except:
         print("Error occurred")
