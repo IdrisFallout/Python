@@ -1,2 +1,2 @@
 # Python
-contains code written in python
+'''contains code written in python
