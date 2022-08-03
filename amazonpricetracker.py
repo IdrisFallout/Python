@@ -44,7 +44,7 @@ def check_price():
 
 
 def send_email():
-    print(f"Sending Email...f{round_price_ksh}")
+    print("Sending Email...")
     server = smtplib.SMTP('smtp.gmail.com', 587)
     server.ehlo()
     server.starttls()
