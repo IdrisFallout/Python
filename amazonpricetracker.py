@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import smtplib
 import time
 
-global round_price_ksh
+# global round_price_ksh
 
 URL = 'https://www.amazon.com/Raspberry-Pi-MS-004-00000024-Model-Board/dp/B01LPLPBS8/ref=sr_1_6?crid=1VQEENVD25W2P' \
       '&keywords=raspberry+pi&qid=1659520949&sprefix=Rasp%2Caps%2C560&sr=8-6 '
